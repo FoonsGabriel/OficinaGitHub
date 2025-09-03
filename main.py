@@ -1,0 +1,5 @@
+nome = input('Qual o seu nome? ')
+print('Olá ' + nome)
+print('Deixe uma mensagem salva')
+mensagem = input('Digite a mensagem: ')
+print(nome + ' deixou a seguinte mensagem:\n' + mensagem)
