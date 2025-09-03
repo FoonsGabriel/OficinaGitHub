@@ -12,3 +12,5 @@ def idade(num):
 
 num = int(input('Qual sua idade?'))
 print (idade(num))
+
+#ablu blu bleia
